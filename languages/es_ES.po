@@ -1,0 +1,458 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: NicoShop\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-07-07 16:11+0000\n"
+"PO-Revision-Date: 2017-07-07 16:15+0000\n"
+"Last-Translator: targetimc <max@targetimc.com>\n"
+"Language-Team: Spanish (Spain)\n"
+"Language: es-ES\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco - https://localise.biz/"
+
+#: front-page.php:85
+msgid "More Products"
+msgstr "Todos los productos"
+
+#: front-page.php:92
+msgid "In our Blog"
+msgstr "En el Blog"
+
+#: functions.php:253
+msgid "View your shopping cart"
+msgstr "Ver el carrito de la compra"
+
+#: functions.php:290
+msgid "Back&nbsp;To&nbsp;Top"
+msgstr "Subir"
+
+#: functions.php:320
+msgid "On "
+msgstr "En"
+
+#: functions.php:329 functions.php:333
+msgid "Read More"
+msgstr "Leer más"
+
+#: functions.php:449
+msgid "Continue Shopping"
+msgstr "Seguir comprando"
+
+#. Name of the template
+msgid "Landing"
+msgstr "Landing"
+
+#: lib/customizer.php:253
+msgid "Change the default color for body texts."
+msgstr ""
+
+#: lib/customizer.php:254
+msgid "Text Color"
+msgstr ""
+
+#: lib/customizer.php:274
+msgid "Change the default secondary color for your links."
+msgstr ""
+
+#: lib/customizer.php:275
+msgid "Link Color"
+msgstr ""
+
+#: lib/customizer.php:295
+msgid "Change the default color for titles (h1, h2, h3, h4, h5, h6)."
+msgstr ""
+
+#: lib/customizer.php:296
+msgid "Titles Color"
+msgstr ""
+
+#: lib/customizer.php:316
+msgid "Change the default color for Entry Content Background."
+msgstr ""
+
+#: lib/customizer.php:317
+msgid "Entry Content Background Color"
+msgstr ""
+
+#: lib/customizer.php:337
+msgid "Change the default color for the Buttons Background."
+msgstr ""
+
+#: lib/customizer.php:338
+msgid "Buttons Background Color"
+msgstr ""
+
+#: lib/customizer.php:358
+msgid "Change the default color for the Buttons Borders."
+msgstr ""
+
+#: lib/customizer.php:359
+msgid "Buttons Borders Color"
+msgstr ""
+
+#: lib/customizer.php:379
+msgid "Change the default color for Buttons Texts."
+msgstr ""
+
+#: lib/customizer.php:380
+msgid "Buttons Texts Color"
+msgstr ""
+
+#: lib/customizer.php:400
+msgid "Change the default color for the Buttons Background on Hover."
+msgstr ""
+
+#: lib/customizer.php:401
+msgid "Buttons Background Color on Hover"
+msgstr ""
+
+#: lib/customizer.php:421
+msgid "Change the default color for the Buttons Borders on Hover."
+msgstr ""
+
+#: lib/customizer.php:422
+msgid "Buttons Borders Color on Hover"
+msgstr ""
+
+#: lib/customizer.php:442
+msgid "Change the default color for Buttons Texts on Hover."
+msgstr ""
+
+#: lib/customizer.php:443
+msgid "Buttons Texts Color on Hover"
+msgstr ""
+
+#: lib/customizer.php:463
+msgid "Change the default color for the Primary Navigation Background."
+msgstr ""
+
+#: lib/customizer.php:464
+msgid "Primary Navigation Background Color"
+msgstr ""
+
+#: lib/customizer.php:484
+msgid "Change the default color for the Primary Navigation Texts."
+msgstr ""
+
+#: lib/customizer.php:485
+msgid "Primary Navigation Texts Color"
+msgstr ""
+
+#: lib/customizer.php:505
+msgid "Change the default color for the Primary Navigation Texts on Hover."
+msgstr ""
+
+#: lib/customizer.php:506
+msgid "Primary Navigation Texts Color on Hover"
+msgstr ""
+
+#: lib/customizer.php:526
+msgid "Change the default color for the Header Background."
+msgstr ""
+
+#: lib/customizer.php:527
+msgid "Header Background Color"
+msgstr ""
+
+#: lib/customizer.php:547
+msgid "Change the default color for the Secondary Navigation Texts."
+msgstr ""
+
+#: lib/customizer.php:548
+msgid "Secondary Navigation Texts Color"
+msgstr ""
+
+#: lib/customizer.php:568
+msgid "Change the default color for the Secondary Navigation Texts on Hover."
+msgstr ""
+
+#: lib/customizer.php:569
+msgid "Secondary Navigation Texts Color on Hover"
+msgstr ""
+
+#: lib/customizer.php:589
+msgid "Change the default color for the Footer Navigation Background."
+msgstr ""
+
+#: lib/customizer.php:590
+msgid "Footer Navigation Background Color"
+msgstr ""
+
+#: lib/customizer.php:610
+msgid "Change the default color for the Footer Navigation Texts."
+msgstr ""
+
+#: lib/customizer.php:611
+msgid "Footer Navigation Texts Color"
+msgstr ""
+
+#: lib/customizer.php:631
+msgid "Change the default color for the Footer Navigation Texts on Hover."
+msgstr ""
+
+#: lib/customizer.php:632
+msgid "Footer Navigation Texts Color on Hover"
+msgstr ""
+
+#: lib/customizer.php:652
+msgid "Change the default color for the Footer Widgets Area Background."
+msgstr ""
+
+#: lib/customizer.php:653
+msgid "Footer Widgets Area Background Color"
+msgstr ""
+
+#: lib/customizer.php:673
+msgid "Change the default color for the Footer Widgets Titles."
+msgstr ""
+
+#: lib/customizer.php:674
+msgid "Footer Widgets Titles Color"
+msgstr ""
+
+#: lib/customizer.php:694
+msgid "Change the default color for the Footer Widgets Texts."
+msgstr ""
+
+#: lib/customizer.php:695
+msgid "Footer Widgets Texts Color"
+msgstr ""
+
+#: lib/customizer.php:715
+msgid ""
+"Change the default color for the Enews Background Color and Enews Button "
+"Background on Hover."
+msgstr ""
+
+#: lib/customizer.php:716
+msgid "Enews Background Color and Enews Button Background on Hover Color."
+msgstr ""
+
+#: lib/customizer.php:736
+msgid ""
+"Change the default color for the Enews Background Color on Hover and Enews "
+"Button Background."
+msgstr ""
+
+#: lib/customizer.php:737
+msgid "Enews Background Color on Hover and Enews Button Background Color."
+msgstr ""
+
+#: lib/customizer.php:757
+msgid ""
+"Change the default color for the Enews Texts and Enews Button Text on Hover."
+msgstr ""
+
+#: lib/customizer.php:758
+msgid "Enews Texts and Enews Button Text on Hover Color."
+msgstr ""
+
+#: lib/customizer.php:778
+msgid ""
+"Change the default color for the Enews Texts on Hover and Enews Button Text."
+msgstr ""
+
+#: lib/customizer.php:779
+msgid "Enews Texts on Hover and Enews Button Text Color."
+msgstr ""
+
+#: lib/customizer.php:799
+msgid "Change the default color for the Home Middle Background."
+msgstr ""
+
+#: lib/customizer.php:800
+msgid "Home Middle Background Color."
+msgstr ""
+
+#: lib/customizer.php:820
+msgid "Change the default color for the Home Middle Text."
+msgstr ""
+
+#: lib/customizer.php:821
+msgid "Home Middle Text Color."
+msgstr ""
+
+#: lib/customizer.php:841
+msgid ""
+"Change the default color for the Home Middle & Slider Overlays Background."
+msgstr ""
+
+#: lib/customizer.php:842
+msgid "Home Middle & Slider Overlays Background Color."
+msgstr ""
+
+#: lib/customizer.php:862
+msgid ""
+"Change the default color for the Home Middle Title Color & Slider Overlays "
+"Subtitle."
+msgstr ""
+
+#: lib/customizer.php:863
+msgid "Home Middle Title Color & Slider Overlays Subtitle Color."
+msgstr ""
+
+#: lib/customizer.php:883
+msgid "Change the default color for the Slider Overlay Title."
+msgstr ""
+
+#: lib/customizer.php:884
+msgid "Slider Overlay Title Color."
+msgstr ""
+
+#: lib/customizer.php:904
+msgid "Change the default color for the Sidebar Background."
+msgstr ""
+
+#: lib/customizer.php:905
+msgid "Sidebar Background Color."
+msgstr ""
+
+#: lib/customizer.php:925
+msgid "Change the default color for the Sidebar Titles."
+msgstr ""
+
+#: lib/customizer.php:926
+msgid "Sidebar Titles Color."
+msgstr ""
+
+#: lib/customizer.php:946
+msgid "Change the default color for body texts in the Sidebar."
+msgstr ""
+
+#: lib/customizer.php:947
+msgid "Sidebar Text Color"
+msgstr ""
+
+#: lib/customizer.php:967
+msgid "Change the default secondary color for your links in the Sidebar."
+msgstr ""
+
+#: lib/customizer.php:968
+msgid "Sidebar Link Color"
+msgstr ""
+
+#: lib/customizer.php:988
+msgid "Change the default color for your Shop Prices."
+msgstr ""
+
+#: lib/customizer.php:989
+msgid "Shop Prices Color"
+msgstr ""
+
+#: lib/customizer.php:1009
+msgid "Change the default color for the Share Buttons Background."
+msgstr ""
+
+#: lib/customizer.php:1010
+msgid "Share Buttons Background Color"
+msgstr ""
+
+#: lib/customizer.php:1030
+msgid "Change the default color for the Share Buttons Text."
+msgstr ""
+
+#: lib/customizer.php:1031
+msgid "Share Buttons Text Color"
+msgstr ""
+
+#: lib/customizer.php:1051
+msgid "Change the default color for the Input & Text Area."
+msgstr ""
+
+#: lib/customizer.php:1052
+msgid "Input & Text Area Color"
+msgstr ""
+
+#: lib/customizer.php:1072
+msgid "Change the default color for the Input & Text Area Texts."
+msgstr ""
+
+#: lib/customizer.php:1073
+msgid "Input & Text Area Text Color"
+msgstr ""
+
+#: lib/customizer.php:1093 lib/plantilla-customizer.php:23
+msgid "Change the default color for the Borders."
+msgstr ""
+
+#: lib/customizer.php:1094 lib/plantilla-customizer.php:24
+msgid "Borders Color"
+msgstr ""
+
+#: lib/customizer.php:1950
+msgid "Upload Logo"
+msgstr ""
+
+#: lib/customizer.php:1952
+msgid ""
+"Upload your logo to the header of the site. Recommeded size is 320 x 66 px."
+msgstr ""
+
+#: lib/customizer.php:1960
+msgid "Logo"
+msgstr ""
+
+#: lib/widget-areas.php:19
+msgid "Home - Slider"
+msgstr ""
+
+#: lib/widget-areas.php:20
+msgid "This is the Slider section of the Home page."
+msgstr ""
+
+#: lib/widget-areas.php:25
+msgid "Home - Slider Overlay"
+msgstr ""
+
+#: lib/widget-areas.php:26
+msgid "This is the Slider Overlay section of the Home page."
+msgstr ""
+
+#: lib/widget-areas.php:34
+msgid "Horizontal Opt-In"
+msgstr ""
+
+#: lib/widget-areas.php:35
+msgid "This is the widget area for horizontal opt-in form."
+msgstr ""
+
+#: lib/widget-areas.php:43
+msgid "Home Middle Flexible Widgets"
+msgstr ""
+
+#: lib/widget-areas.php:44
+msgid "This is the widget area for Home Middle Flexible Widgets."
+msgstr ""
+
+#: lib/widget-areas.php:65
+msgid "Nav Social Menu"
+msgstr ""
+
+#: lib/widget-areas.php:66
+msgid "This is the nav social menu section."
+msgstr ""
+
+#. Name of the theme
+msgid "NicoShop"
+msgstr ""
+
+#. Description of the theme
+msgid ""
+"A mobile responsive and HTML5 ecommerce theme built for the Genesis "
+"Framework."
+msgstr ""
+
+#. URI of the theme
+msgid "https://github.com/targetimc/nicoshop"
+msgstr ""
+
+#. Author of the theme
+msgid "Max Terbeck"
+msgstr ""
+
+#. Author URI of the theme
+msgid "http://www.targetimc.com"
+msgstr ""
